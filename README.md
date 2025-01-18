@@ -25,7 +25,7 @@ This project is a basic demonstration of:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe-demo.git
+   git clone git@github.com:businessfordevsav/Tic-Tac-Toe.git
    ```
 2. Navigate to the project folder:
    ```bash
